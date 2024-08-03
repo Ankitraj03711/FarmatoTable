@@ -7,4 +7,4 @@ Team Members : <br>
 <br>
 We have used HTML,CSS and JS along with framework such as Bootsstrap and TailwindCSS to build this website.<br>
 The project is based on the cafe & restro Farm To Table which is located in Vesu,Surat,Gujarat.<br>
-Visit the website on https://vedimuskan.github.io/FarmToTable/.
+Visit the website on https://farmato-table-vzx5.vercel.app/.
